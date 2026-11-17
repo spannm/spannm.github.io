@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://spannm.github.io/figlet/sitemap.xml
